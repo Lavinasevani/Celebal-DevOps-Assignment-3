@@ -8,7 +8,6 @@ This repository documents the Azure identity, access management, security, and a
 
 - `azure-commands.txt` – Azure CLI and PowerShell command references  
 - `README.md` – This file  
-- `Azure_Assignment_Report.pdf` – Detailed write-up of all steps and learnings  
 
 ---
 
